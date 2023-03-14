@@ -4,4 +4,7 @@ This project aims to provide eductional tutorials for students of dapp developme
 # Lesson 1 simple dapp
 --Dependencies
 -- VS Code
---additional libs
+--objective = create a dapp that collects info from a form and stores data on chain
+example is food/#. this is a dapp I created that stores 
+
+components- contract (solidity) frontend(html/css/js) this project aims to be begiuner friendly for people who have never written a line of code 
